@@ -43,13 +43,9 @@ The system currently includes the following candidates:
 - BTS
 - Black Pink
 - Narendra Modi
-- Rahul Gandhi
 - Donald Trump
 - Joe Biden
 - Vladimir Putin
-- Adolf Hitler
-- Israel
-- Palestine
 
 ## How It Works
 
