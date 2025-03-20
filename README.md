@@ -1,4 +1,4 @@
-# Electronic Voting Machine (EVM)
+# Electronic Voting Machine (EVM) 🗳
 
 A simple command-line based Electronic Voting Machine system built with Python that allows users to cast votes for various candidates and view real-time results.
 
