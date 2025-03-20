@@ -9,13 +9,9 @@ candidates = {
     "bts": 0,
     "black pink": 0,
     "narendra modi": 0,
-    "rahul gandhi": 0,
     "donald trump": 0,
     "joe biden": 0,
-    "vladimir putin": 0,
-    "adolf hitler": 0,
-    "israel": 0,
-    "palestine": 0
+    "vladimir putin": 0
 }
 
 def clear_screen():
