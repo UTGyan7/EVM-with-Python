@@ -66,3 +66,7 @@ Feel free to fork this repository and submit pull requests to contribute to this
 ## License
 
 This project is open source and available under the MIT License. 
+
+---
+
+⚡ Built by [Utkarsh Gyan](https://github.com/UTGyan7) — I build fast & freelance small gigs too. DM me!
